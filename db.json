@@ -1,81 +1,15 @@
 {
     "productos": [
         {
-            "id": "33s1",
-            "url_imagen": "https://digitalbox.com.ec/5524-thickbox_default/laptop-notebook-hp-250-g7-intel-core-i3-ram-4gb-disco-hdd-1tb-1560-win-10.jpg",
-            "nombre": "Laptop Notebook HP 250",
-            "categoria": "Categoría del producto 1",
-            "descripcion": "Descripción del producto",
+            "id": 0,
+            "url_imagen": "",
+            "nombre": "",
+            "categoria": "",
+            "descripcion": "",
             "precio": 1240,
             "cantidad": 0,
-            "tipo_iva": "Tipo de IVA",
+            "tipo_iva": "",
             "descuento": 0
-        },
-        {
-            "id": "44a1",
-            "url_imagen": "https://i5.walmartimages.com/asr/57bb38e9-90a1-4532-8f4b-0e76e4538846.b8710b156887abf438daa8aa6905b47d.jpeg",
-            "nombre": "Nombre del producto",
-            "categoria": "Categoría del producto 2",
-            "descripcion": "Descripción del producto",
-            "precio": 0,
-            "cantidad": 0,
-            "tipo_iva": "Tipo de IVA",
-            "descuento": 0
-        },
-        {
-            "id": "55s1",
-            "url_imagen": "https://i5.walmartimages.com/asr/57bb38e9-90a1-4532-8f4b-0e76e4538846.b8710b156887abf438daa8aa6905b47d.jpeg",
-            "nombre": "Nombre del producto",
-            "categoria": "Categoría del producto 1",
-            "descripcion": "Descripción del producto",
-            "precio": 0,
-            "cantidad": 0,
-            "tipo_iva": "Tipo de IVA",
-            "descuento": 0
-        },
-        {
-            "id": "66s1",
-            "url_imagen": "https://i5.walmartimages.com/asr/57bb38e9-90a1-4532-8f4b-0e76e4538846.b8710b156887abf438daa8aa6905b47d.jpeg",
-            "nombre": "Nombre del producto",
-            "categoria": "Categoría del producto 2",
-            "descripcion": "Descripción del producto",
-            "precio": 0,
-            "cantidad": 0,
-            "tipo_iva": "Tipo de IVA",
-            "descuento": 0
-        },
-        {
-            "id": "77s1",
-            "url_imagen": "https://i5.walmartimages.com/asr/57bb38e9-90a1-4532-8f4b-0e76e4538846.b8710b156887abf438daa8aa6905b47d.jpeg",
-            "nombre": "pantalon jeans",
-            "categoria": "ropa",
-            "descripcion": "pantalon para mujer",
-            "precio": 25,
-            "cantidad": 200,
-            "tipo_iva": "conIVA",
-            "descuento": 20
-        },
-        {
-            "id": "88c1",
-            "url_imagen": "https://yesfashion.ec/cdn/shop/products/Jean-para-mujer-con-rasgados-1_6bee29a5-b610-4364-9b8a-1992bd7560fd_1024x1024.jpg?v=1670801047",
-            "nombre": "pantalon jeans",
-            "categoria": "ropa",
-            "descripcion": "pantalon para mujer",
-            "precio": 25,
-            "cantidad": 200,
-            "tipo_iva": "conIVA",
-            "descuento": 5
-        },
-        {
-            "id": "5b28",
-            "url_imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/002/142/859/products/ch-m-61-43922a4582272537c816523976636164-640-0.jpeg",
-            "nombre": "Blusa",
-            "categoria": "ropa",
-            "descripcion": "Blusa talla 8",
-            "precio": 40,
-            "cantidad": 260,
-            "tipo_iva": "conIVA",
-            "descuento": 5
         }
     ]
 }
